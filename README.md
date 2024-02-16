@@ -4,4 +4,4 @@ REST API Load Testing With K6
 **Source of api documentation :** https://reqres.in/
 
 ### Hint
-1. *API Create (POST) and API Update (PUT) tests* in **script_1.js**
+1. *API Create (POST) and API Update (PUT) tests* in **script_1.js**.
